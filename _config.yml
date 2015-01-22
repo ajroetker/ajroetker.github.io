@@ -1,3 +1,10 @@
+title: A.J. Roetker
+tagline: How you doing?
+owner: Andrew Roetker
+link: https://github.com/christopherpoole/
+copyright: Copyright Andrew Roetker 2014-2015
+
+
+hilighter: true
+permalink: '/:title'
 markdown: kramdown
-kramdown:
-    input: GFM
